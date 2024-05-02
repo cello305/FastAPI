@@ -1,0 +1,2 @@
+url="https://gaxzvpgucodrdewsqtdm.supabase.co"
+api="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdheHp2cGd1Y29kcmRld3NxdGRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQyNTU0ODgsImV4cCI6MjAyOTgzMTQ4OH0.RDIM53nDnf6B-oxQka-U0yJRbnI9EMQPNsxKCBXpt4s"
